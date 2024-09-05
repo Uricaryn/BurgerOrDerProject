@@ -30,6 +30,10 @@ The Burger Order Project is an application that allows users to place burger ord
 - **Burger Customization**: Customize your burger by adding or removing ingredients directly through the UI.
 - **Order Management**: Create, update, and delete orders seamlessly.
 - **Order History**: View and review your past orders in an organized manner.
+- **Add New Menu**: Administrators can add new burger menus to the system through a dedicated interface.
+- **Add New Extras**: New extra products such as sauces, toppings, or sides can be added to enhance the menu options.
+- **Daily Order Overview**: A page dedicated to displaying all orders placed on the current day, providing a comprehensive view of daily activities.
+
 
 ## Technologies and Libraries
 - **C#**: The main programming language of the project.
