@@ -50,3 +50,5 @@ The Burger Order Project is an application that allows users to place burger ord
 5. Open a Pull Request.
 
 Contact For any questions or feedback, please reach out to onuranatca@hotmail.com.tr
+
+This project is licensed under the MIT License. For more details, please see the LICENSE.txt file.
